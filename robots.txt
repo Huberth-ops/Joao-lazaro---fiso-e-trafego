@@ -1,0 +1,12 @@
+# Robots.txt — João Lázaro
+# Gerado por M.AI.T.E Studio
+
+User-agent: *
+Allow: /
+
+# Bloquear arquivos desnecessários para indexação
+Disallow: /assets/
+Disallow: /*.json$
+
+# Sitemap
+Sitemap: https://joaolazaro.com.br/sitemap.xml
